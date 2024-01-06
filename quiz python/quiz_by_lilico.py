@@ -5,7 +5,7 @@ musica_de_fundo = pygame.mixer.music.load('so_love.mp3')
 pygame.mixer.music.play(-1)
 pygame.mixer.music.set_volume(0.09) 
 
-print("Seja muito bem vindo ao quiz do Lilico para conquistar a Giovanna! Are You a Karma? Because Karma is a Queen")
+print("Seja muito bem vindo ao quiz do Lilico para conquistar a Fulana! Are You a Karma? Because Karma is a Queen")
 answer_user = input("Está pronto?(responda com sim ou nao) ")
 print(answer_user)
 
